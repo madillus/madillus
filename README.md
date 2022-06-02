@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Aidan Gilmore
+
+- My name is Aidan and I'm from Ireland but living in Vienna, Austria.
+- I'm a Web Developer with a background in Gastronomy and Earth Sciences.
+
+With my degree in Earth and Ocean sciences and my experience in Gastronomy.
 
 <!--
 **madillus/madillus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
