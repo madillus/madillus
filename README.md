@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Aidan Gilmore
 
-- My name is Aidan and I'm from Ireland but living in Vienna, Austria.
+- My name is Aidan and I'm from Ireland and living in Vienna, Austria.
 - I'm a Web Developer with a background in Gastronomy and Earth Sciences.
 
 With my degree in Earth and Ocean sciences and my experience in Gastronomy, I was always problem solving, helping people and needing a keen eye for the finer details. Web development was the perfect fit. 
